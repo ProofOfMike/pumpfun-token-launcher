@@ -20,8 +20,8 @@ Ensure you have the following installed:
 To install the package, clone the repository and install the dependencies:
 
 ```bash
-git clone https://github.com/bilix-software/pump-fun-token-launcher.git
-cd pump-fun-token-launcher
+git clone https://github.com/ProofOfMike/pumpfun-token-launcher.git
+cd pumpfun-token-launcher
 npm install
 ```
 
