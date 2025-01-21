@@ -1,2 +1,65 @@
 # pumpfun-token-launcher
 Pumpfun Token Launcher: Tools and scripts designed for programmatically launching pump.fun tokens. This TypeScript-based project provides essential modules to streamline the launch and management of tokens on the pump.fun platform.
+
+## Features
+
+- Programmatically launch `pump.fun` tokens.
+- Utilities for managing token configurations.
+- Easy integration into existing projects.
+
+## Prerequisites
+
+Ensure you have the following installed:
+
+- [Node.js](https://nodejs.org/) (version 14 or later)
+- [npm](https://www.npmjs.com/)
+- [TypeScript](https://www.typescriptlang.org/)
+
+## Installation
+
+To install the package, clone the repository and install the dependencies:
+
+```bash
+git clone https://github.com/bilix-software/pump-fun-token-launcher.git
+cd pump-fun-token-launcher
+npm install
+```
+
+## Usage
+
+To compile and run the scripts:
+
+1. Configure your environment variables as instructed.
+2. Compile the TypeScript files:
+
+```bash
+npx tsc
+```
+
+3. Run the compiled JavaScript file:
+
+```bash
+node example.js
+```
+
+## Project Structure
+
+- `src/`: Contains the source code for the package.
+    - `constants.ts`: Contains constant values used throughout the project.
+    - `launch.ts`: Main module for launching tokens.
+    - `utils.ts`: Utility functions used in the project.
+- `package.json`: Project metadata and dependencies.
+- `tsconfig.json`: TypeScript configuration file.
+
+## Contributing
+
+Contributions are welcome! Please fork the repository and submit a pull request with your improvements.
+
+1. Fork the repository
+2. Create your feature branch (`git checkout -b feature/YourFeature`)
+3. Commit your changes (`git commit -m 'Add some feature'`)
+4. Push to the branch (`git push origin feature/YourFeature`)
+5. Open a pull request
+
+## Contact Me
+X: [mikegraham915](https://x.com/@mikegraham915)
